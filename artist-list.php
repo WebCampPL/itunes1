@@ -24,8 +24,8 @@
         <tr>
             <th>L.p.</th>
             <th>Nazwa</th>
-            <th></th>
-            <th></th>
+            <th> </th>
+            <th> </th>
         </tr>
     <?php
         @require_once('function-db.php');
